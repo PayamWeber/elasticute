@@ -8,4 +8,4 @@ By using this builder you can easily make your database queries without writing 
 composer require payamjafari/elasticute
 ```
 
-### Project moved to [LifeWeb](https://github.com/lifeweb-ir/elasticute) because I developed it at Lifeweb team :)
+### Project moved to [LifeWeb](https://github.com/lifeweb-ir/elasticute) because I'm developing it at Lifeweb team :)
